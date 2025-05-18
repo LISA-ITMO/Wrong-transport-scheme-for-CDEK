@@ -1,4 +1,4 @@
-# This repository contains all the prtoblems I had to use the intellectual methods for with code structure and ML modelling
+# This repository contains all the problems I had to use the intellectual methods for with code structure and ML modelling
 Task 1: Wrong-transport-scheme-for-CDEK
 OpenSource code for CDEK
 This code's input is an Excel list with typical data with parcels from warehouse A to warehouse B, and the output is the list of parcels were sorted wrongly (destination office from A != B)
